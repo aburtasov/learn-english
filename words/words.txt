@@ -5,3 +5,4 @@ assault - атаковать
 i guess - я думаю 
 pinch - ущипуть
 accused - обвиняемый
+suppose - предположим
